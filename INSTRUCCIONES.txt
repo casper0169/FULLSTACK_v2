@@ -1,0 +1,25 @@
+INSTRUCCIONES
+
+Bienvenido al software espia de prueba desarrollado por el usuario c@$p€r de I HACK, YOU WIN, esperemos que lo uses con responsabilidad y en un entorno controlado, sin quebrantar ninguna ley nacional o internacional. Como veras el software es muy intutivo en la cabecera veras el directorio en el cual está alojado el programa y tendras un formato fecha hora para orientarte mejor.
+
+En el menu de las opciones selecionables hay 8 opciones que podras ejecutar de manera aleatoria, pero estan colocadas en el orden logico de que se supone hay que ir desarrollando.
+
+1.- Activacion de NO registro > Pulsando INICIAR evitara que las siguientes opciones que selecciones queden registradas en el Visualizador de Eventos.
+
+2.- Instalación de programas > Pulsando INICIAR se instalaran una serie de programas en el dispositivo infectado que permitiran la ejecucion de los programas asociados al resto de opciones.
+
+3.- Obtencion de claves wifi > Pulsando INICIAR en menos de 5 segundos se ejecutara un programa que creara una carpeta oculta llamada WIFI-PASSWORDS en la que se habrá guardado un documento de texto que contendra los SSID, informacion y claves de todos los Wi-Fi a los que alguna vez se haya conectado el dispositivo infectado.
+
+4.- Recoleccion de directorio > Pulsando INICIAR se ejecutara un programa que creara una carpeta oculta llamada informacion-<nombre-del-equipo-infectado> en el que habra un documento de texto en el que se haya recolectado la informacion del dispositivo infectado asi como un mapa con todos los directorios del equipo infectado.
+
+5.- Captura de pantalla > Pulsando INICIAR se ejecutara un programa que creara una carpeta oculta llamada CAPTURAS-PANTALLA-5seg en el que se guardaran todas las capturas de pantalla que se vayan haciendo en un intervalo de 5 segundos. Pulsando DETENER este programa se detiene.
+
+6.- Fotos desde la camara > Pulsando INICIAR se ejecutará un programa que creara una carpeta oculta llamada FOTOS-CAMARA-5seg en el que se guardaran todas las fotos que se hagan desde la camara del dispositivo en un intervalo de 5 segundos. Pulsando DETENER este programa se detiene. ATENCION: el codigo aun no esta perfeccionado y salta la luz de la camara en el dispositivo infectado al iniciarse.
+
+7.- Grabacion de audio > Pulsando INICIAR se ejecutara un programa que creara una carpeta oculta llamada AUDIO-<nombre-del-equipo-infectado> en el que se guardaran todos los audios que se hagan desde el microfono del dispositivo. Pulsando DETENER este programa se detiene. ATENCION: el codigo aun no esta perfeccionado y salta el incono del microfono en el dispositivo infectado al iniciarse.
+
+8.- Registro de teclas > Pulsando INICIAR se ejecutara un programa que creara una carpeta oculta llamada KeyloggerFolder en el que se guardaran todos los registros en el documento key_log.txt de las teclas pulsadas en el dispositivo. Pulsando DETENER este programa se detiene.
+
+9.- Ubicacion segun IPv4 publica > Pulsando INICIAR se ejecutara un programa que creara una carpeta oculta llamada CambiosIP en el que se guardaran todos los registros en el documento CambiosIP.txt de las teclas pulsadas en el dispositivo. Al mismo tiempo aparece una ventana emergene que muestra el estado de la conexión, la dirección IPv4 publica del dispositivo, el pais, ciudad, provincia y el proveedor de servicios de internet (ISP). Esta ventana emergente se actualiza cada 5 segundos modificando la informacion segun el estado de la conexión o cambios en la direcion IPv4 publica. Pulsando DETENER esta ventana emergente se cierra y el programa se detiene.
+
+Al FINALIZAR se creara una carpeta en oculto llamada Registros en la cual habra un documento de texto llamado Registros.txt que contendra toda la informacion relativa a las actividades que se han ido desarrollando. Cuando se pulse el botón ACEPTAR de la ventana emergente con el mensaje de despedida eiliminaran las carpetas creadas en los procesos 4, 5, 6, 7, 8, 9 y Registros para pasar a almacenarse en una carpeta llamada .zip la cual contendrá una carpeta comprimida llamada PENTESTING-<informacion-del-equipo>-<dia-mes-año>.zip que estará oculta.
